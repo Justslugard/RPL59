@@ -5,3 +5,10 @@ C:\Users\Windows 10 (SMEA 6)\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\C
 C:\Users\Windows 10 (SMEA 6)\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Windows 10 (SMEA 6)\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\Windows 10 (SMEA 6)\Documents\RPL59\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rsniz\Documents\RPL59\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
