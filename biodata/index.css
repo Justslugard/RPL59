@@ -1,0 +1,25 @@
+* {
+ font-family: share;
+}
+
+body {
+ background-color: rgb(24, 57, 150);
+}
+
+h1 {
+text-align: center;
+}
+
+tr > td:nth-child(1) {
+    color: yellow;
+}
+
+#wiwok {
+ font-style: italic;
+}
+
+#main {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
