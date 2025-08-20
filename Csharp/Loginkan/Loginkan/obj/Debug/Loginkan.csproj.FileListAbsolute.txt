@@ -5,3 +5,10 @@ C:\Users\rsniz\Documents\RPL59\Loginkan\Loginkan\obj\Debug\Loginkan.csproj.Assem
 C:\Users\rsniz\Documents\RPL59\Loginkan\Loginkan\obj\Debug\Loginkan.csproj.CoreCompileInputs.cache
 C:\Users\rsniz\Documents\RPL59\Loginkan\Loginkan\obj\Debug\Loginkan.exe
 C:\Users\rsniz\Documents\RPL59\Loginkan\Loginkan\obj\Debug\Loginkan.pdb
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\bin\Debug\Loginkan.exe.config
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\bin\Debug\Loginkan.exe
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\bin\Debug\Loginkan.pdb
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\obj\Debug\Loginkan.csproj.AssemblyReference.cache
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\obj\Debug\Loginkan.csproj.CoreCompileInputs.cache
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\obj\Debug\Loginkan.exe
+C:\Users\rsniz\Documents\RPL59\Csharp\Loginkan\Loginkan\obj\Debug\Loginkan.pdb
