@@ -1,0 +1,15 @@
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\bin\Debug\net8.0\Transaction.exe
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\bin\Debug\net8.0\Transaction.deps.json
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\bin\Debug\net8.0\Transaction.runtimeconfig.json
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\bin\Debug\net8.0\Transaction.dll
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\bin\Debug\net8.0\Transaction.pdb
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfoInputs.cache
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfo.cs
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.sourcelink.json
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.dll
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\refint\Transaction.dll
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.pdb
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\Transaction.genruntimeconfig.cache
+C:\Users\rsniz\Documents\Coding\RPL59\Csharp\Transaction\Transaction\obj\Debug\net8.0\ref\Transaction.dll
